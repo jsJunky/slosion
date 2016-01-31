@@ -65,7 +65,7 @@ describe('Home Component', () => {
 
 			expect(brandLinkNode.tagName).to.equal('A');
 			expect(brandLinkNode.href).to.equal('/');
-			expect(brandLinkNode.textContent).to.equal('ImSplosion');
+			expect(brandLinkNode.textContent).to.equal('Slosion');
 		});
 
 		it('should have a navbar toggle', () => {

@@ -21,7 +21,7 @@ class Home extends React.Component {
 				<Navbar inverse>
 				    <Navbar.Header>
 				        <Navbar.Brand>
-				        	<a href="/">ImSplosion</a>
+				        	<a href="/">Slosion</a>
 				        </Navbar.Brand>
 				        <Navbar.Toggle />
 				    </Navbar.Header>
